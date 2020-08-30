@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/mainpage"
+        android:title="Home"
+        android:icon="@drawable/ic_home" />
+
+    <item
+        android:id="@+id/dashboard"
+        android:title="Dashboard"
+        android:icon="@drawable/ic_dashboard" />
+
+    <item android:id="@+id/map"
+        android:title="Map"
+        android:icon="@drawable/ic_map"/>
+
+    <item android:id="@+id/Tune"
+        android:title="Tune"
+        android:icon="@drawable/ic_tune"/>
+
+    <item android:id="@+id/weekend"
+        android:title="Weekend"
+        android:icon="@drawable/ic_weekend"/>
+</menu>
